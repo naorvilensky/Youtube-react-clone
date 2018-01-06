@@ -1,21 +1,17 @@
-### Getting Started
+# Youtube React Clone
 
-There are two methods for getting started with this repo.
+A simple Youtube clone built with React and Bootstrap.
 
-#### Familiar with Git?
-Checkout this repo, install dependencies, then start the gulp process with the following:
+To use you should have 'Node Package Manager' installed.
 
+Use the following command to install all packages: 
 ```
-> git clone https://github.com/StephenGrider/ReduxSimpleStarter.git
-> cd ReduxSimpleStarter
-> npm install
-> npm start
+npm install
 ```
 
-#### Not Familiar with Git?
-Click [here](https://github.com/StephenGrider/ReactStarter/releases) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
+To run the project use: 
+```
+npm start
+```
 
-```
-> npm install
-> npm start
-```
+
