@@ -2,7 +2,7 @@
 
 A simple Youtube clone built with React and Bootstrap.
 
-To use you should have 'Node Package Manager' installed.
+To use it you should have 'Node Package Manager' installed.
 
 Use the following command to install all packages: 
 ```
